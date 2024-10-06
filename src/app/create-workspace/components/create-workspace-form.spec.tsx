@@ -1,0 +1,2 @@
+//Putting this out of scope for now, but I'd prefer to have some basic unit tests for each component 
+//that are ran during the build pipeline as a fallback that could block the merging of my latest changes to the main branch

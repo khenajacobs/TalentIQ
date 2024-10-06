@@ -1,0 +1,17 @@
+{
+    "formTitle": "Contact Form",
+    "firstNameLabel": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "firstNameError": "First name is required",
+    "lastNameLabel": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "lastNameError": "Last name is required",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "emailError": "Invalid email format",
+    "emailRequired": "Email is required",
+    "termsLabel": "I agree to the terms and conditions",
+    "termsError": "You must agree to the terms and conditions",
+    "submitButton": "Submit"
+  }
+  
